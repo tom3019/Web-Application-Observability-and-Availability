@@ -21,7 +21,7 @@ OpenTelemetry(OTEL) 是近年來最流行的可觀測性框架，提供了標準
 - Prometheus 是一種監控解決方案，用於存儲時間序列數據，例如CPU、Memory等
 - Grafana 允許可視化存儲在 Prometheus、Database 等中的數據
 - Grafana Tempo  是一個開源、易於使用和大規模分散式跟蹤後端
-- Grafana Loki Loki 是一個可擴展、高度可用的多租戶日誌聚合系統
+- Grafana Loki 是一個可擴展、高度可用的多租戶日誌聚合系統
 
 
 ### 下圖顯示了解決方案結構:
